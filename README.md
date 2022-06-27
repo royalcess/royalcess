@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @royalcess
-- 👀 I’m interested in Data Science, Data Analysis 
-- 🌱 I’m currently learning IBM professional Data science 
-- 💞️ I’m looking to collaborate with fellow data scientists and analysts, to intern so as to be very professional in Analysis.
+- 👀 I’m interested in Data Science, Data Analytics
+- 🌱 IBM professional Data science certified 
+- 💞️ I’m looking to collaborate with fellow data scientists and analysts, to intern so as to be very professional in Data Analysis.
 - 📫 How to reach me : royalprincessamadi01@gmail.com
 
 <!---
